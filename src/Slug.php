@@ -12,4 +12,11 @@ class Slug extends Facade
     {
         return 'Slug';
     }
+
+
+
+
+
+
+
 }
